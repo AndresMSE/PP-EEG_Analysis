@@ -22,10 +22,10 @@ El contenido dentro de los notebooks está dirigido para estudiantes de licencia
 así como conocimientos básicos en programación. El orden sugerido para el estudio y consulta de los notebooks es el siguiente:
 
     - Los datos y su visualización - \url{La-electroencefalografia.ipynb}
-    -[A.1] La transformada Continua Wavelet (CWT) - \url{CWT p1 - Fundamentos.ipynb}
-    \item[A.2] Espectrograma - Análisis tiempo frecuencia - \url{CWT p2 - Espectrograma.ipynb}
-    \item[B.1] El Análisis de Espectro Singular (SSA) - \url{SSA p1 - Fundamentos.ipynb}
-    \item[B.2] Remoción de artefactos y extracción de ritmos en una señal de EEG mediante SSA - \url{SSA p2 - Extraccion de componentes.ipynb}
+    -A.1 La transformada Continua Wavelet (CWT) - \url{CWT p1 - Fundamentos.ipynb}
+    -A.2 Espectrograma - Análisis tiempo frecuencia - \url{CWT p2 - Espectrograma.ipynb}
+    -B.1 El Análisis de Espectro Singular (SSA) - \url{SSA p1 - Fundamentos.ipynb}
+    -B.2 Remoción de artefactos y extracción de ritmos en una señal de EEG mediante SSA - \url{SSA p2 - Extraccion de componentes.ipynb}
 
  A pesar de ello, es importante destacar que el primer módulo es opcional en caso de que se cuente con conocimiento previo acerca de la técnica de EEG y 
  la visualización de datos en Python 3; asimismo, los módulos A y B son intercambiables en cuanto su orden de estudio dejándolo a consideración del lector.
