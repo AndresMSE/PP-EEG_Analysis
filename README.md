@@ -1,10 +1,10 @@
 # PP-EEG_Analysis
 Notebooks descriptivos y educativos sobre distintos métodos de análisis de señales de EEG
 
-**Práctica Profesional Supervisada**
+**Práctica Profesional Supervisada y Servicio Social**
 
 **Autor:** _Ángel Andrés Moreno Sánchez_
-**Profesora:** _Erin C. McKiernan_
+**Asesores:** _Erin C. McKiernan_ , _Francisco F. De Miguel_
 
 **Resumen:**
 ***
